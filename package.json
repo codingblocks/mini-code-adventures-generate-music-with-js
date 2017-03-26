@@ -1,0 +1,15 @@
+{
+  "name": "music-generator",
+  "version": "1.0.0",
+  "description": "Generate MIDI files in JavaScript with ScribbleTune and Tracery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "scribbletune": "^0.8.11",
+    "tracery-grammar": "^2.7.3"
+  }
+}
